@@ -1,0 +1,11 @@
+.backG{
+	background-color: #008eff;
+    height: -webkit-fill-available;
+    color: white;
+    font-size: 29px;
+    padding: 29px;
+}
+
+.title{
+	margin-top: 10%;
+}
